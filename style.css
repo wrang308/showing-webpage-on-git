@@ -13,7 +13,7 @@ section {
 img {
 	width: 100%;
     height: 200px;
-	background-image: url("file://C:/Users/marku/Sublime_text/projects/resume_sally/cage.jpg");
+	background-image: url(https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.renewableenergyinstaller.co.uk%2Fwp-content%2Fuploads%2F2011%2F09%2FForest-Trees.jpg&f=1);
 	border-style: solid;
 	border: 5px;
 	border-color: black;
@@ -34,7 +34,7 @@ h2{
 }
 
 h5{
-	margin-left: 12px;
+	margin-left: 10px;
 }
 
 p {
