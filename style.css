@@ -19,6 +19,15 @@ img {
 	border-color: black;
 }
 
+.sally {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	
+	
+
+}
+
 header {
 	
 	text-align: center;
