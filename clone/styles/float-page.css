@@ -10,3 +10,12 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.left{
+	float: left;
+	width: 34%;
+}
+.right{
+	float:right;
+	width: 33%;
+}
