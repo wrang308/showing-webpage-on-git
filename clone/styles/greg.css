@@ -1,0 +1,75 @@
+body{
+	background-color: white;
+	margin:  0px;
+
+}
+
+main{
+	padding: 0px;
+	margin-left: 50px;
+	margin-top: 50px;
+
+}
+
+nav {
+	background-color: lightgray;
+	height: 60px;
+	width: 100%;
+	
+}
+
+nav p {
+	font-size: 1.2em;
+	padding-top: 0px;
+	position: absolute;
+	left: 5px;
+}
+
+nav ul{
+	list-style: none;
+	position: absolute;
+	right: 10px;
+}
+
+nav li{
+	font-size: 20px;
+	position: right;
+	display: inline-block;
+	padding-right: 10px;
+}
+
+label{
+	display: block;
+}
+
+.box{
+	
+	height: 25px;
+	display: inline-block;
+	padding: 2px 2px 2px 2px;
+
+}
+.bigbox{
+	border:solid black 1px;
+	display: inline-block;
+	
+}
+.mid{
+	border-left: solid black 1px;
+	border-right: solid black 1px;
+}
+
+.container{
+	margin-top: 30px;
+}
+.container a {
+	text-decoration: none;
+}
+
+p{
+	color: gray;
+}
+p a {
+	color: blue;
+	
+}
