@@ -1,0 +1,52 @@
+body{
+	background-color:lightblue;
+	
+}
+
+.maincontainer{
+	box-sizing: border-box;
+	width: 400px;
+	background-color: white;
+	padding-right: 40px;
+	padding-left: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+
+.logo{
+	width:200px;
+	margin-top: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input{
+	box-sizing: border-box;
+	width: 100%;
+	padding: 15px;
+	border: solid black 2px;
+}
+p{
+
+	}
+
+button{
+	padding: 15px;
+	width: 100%;
+	background-color: lightgreen;
+	border: none;
+	color:white;
+	font-weight: bold;
+	font-size: 1.2em;
+	margin: 20px auto;
+}
+
+label{
+	margin: 20px auto;
+}
+
+.middle{
+	text-align: center;
+}
